@@ -1,14 +1,11 @@
 {
   "name": "ultra-fast-proxy",
   "version": "1.0.0",
-  "description": "Ultra Fast JioTV Reverse Proxy with SOCKS5",
   "main": "proxy-server.js",
-  "scripts": {
-    "start": "node proxy-server.js"
-  },
   "dependencies": {
-    "express": "^4.18.2",
-    "http-proxy-middleware": "^2.0.6",
-    "socks-proxy-agent": "^7.0.0"
+    "axios": "^1.7.2",  // <-- This line should be here!
+    "express": "^4.19.2",
+    "http-proxy-middleware": "^3.0.0",
+    "socks-proxy-agent": "^8.0.4"
   }
 }
