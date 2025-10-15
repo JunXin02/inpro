@@ -1,0 +1,11 @@
+// channels.json
+[
+    {
+        "name": "Star Sports 1",
+        "id": "star1in",
+        "logo": "...",
+        "link": "PASTE_YOUR_FRESH_AND_VALID_STREAM_LINK_HERE",
+        "referer": "https://stylisheleg4nt.com",
+        "origin": "https://stylisheleg4nt.com"
+    }
+]
