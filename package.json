@@ -2,7 +2,7 @@
   "name": "render-proxy-server",
   "version": "1.0.0",
   "description": "A simple proxy server for JW Player.",
-  "main": "server.js",
+  "main": "proxy-server.js",
   "scripts": {
     "start": "node server.js"
   },
